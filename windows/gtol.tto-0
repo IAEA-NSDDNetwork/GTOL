@@ -1,0 +1,42 @@
+
+ GTOL Version 7.2h [24-May-2013]
+ (Double precision, localized)
+ Max. number of levels=1000
+ Max. number of gammas=4000
+ Max. number of fixed levels=1000
+
+ INPUT FILE (DEF: gtol.inp):         REPORT FILE (DEF: gtol.rpt):       
+ Do you wish to create a new file with level
+   energies replaced by GTOL results(N/Y)? -  Enter OUTPUT ENDSF FILE NAME (DEF: gtol.out):  Do you wish to suppress gamma energy comparison(N/Y)? -  Do you wish to suppress intensity comparison(N/Y)? -    Assumed DCC theory (Bricc-1.4%, Hsicc-3%, Other-?) -      %DCC(theory) to assume -    DCC(theory)= 0.014
+
+ CURRENT DATA SET: 228TH    ADOPTED LEVELS, GAMMAS        
+   Option 6 or 7 on PN record --- Intensities will not be reported
+ *****CHI-SQ NORM=     2.4 greater than CHI-SQ CRITICAL= 1.2
+
+ ***   6 Egs out of  313 differ by 3 or more sigma from calculated
+
+ CURRENT DATA SET: 228TH    228AC B- DECAY                
+ *****CHI-SQ NORM=     3.6 greater than CHI-SQ CRITICAL= 1.3
+
+ ***  15 Egs out of  242 differ by 3 or more sigma from calculated
+ ***    692.50000   1.00000 Cannot be placed from   1892.996 within +-10 keV
+
+ CURRENT DATA SET: 228TH    228PA EC DECAY                
+ *****CHI-SQ NORM=     1.8 greater than CHI-SQ CRITICAL= 1.2
+
+ ***   6 Egs out of  248 differ by 3 or more sigma from calculated
+
+ CURRENT DATA SET: 228TH    232U A DECAY                  
+
+ CURRENT DATA SET: 228TH    226RA(A,2NG)                  
+   Option 6 or 7 on PN record --- Intensities will not be reported
+ ***** Negative diagonal matrix elements. Least-squares fit will not be done
+
+ CURRENT DATA SET: 228TH    230TH(P,T)                    
+   No gammas expected. Data set will not be reported on.
+   Nothing can be calculated
+
+ CURRENT DATA SET: 228TH    230TH(A,A'2NG)                
+   No intensities given - Intensity comparison will not be done.
+
+ Job completed successfully
