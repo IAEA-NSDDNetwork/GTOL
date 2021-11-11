@@ -1,12 +1,14 @@
 # GTOL
-Performs a least-squares fit to the gamma-energies to obtain level energies and calculates the net feedings to levels. GTOL is part of the [ENSDF Analysis and Utility Programs](https://nds.iaea.org/public/ensdf_pgm/).
+Performs a least-squares fit to the gamma-energies to obtain level energies and calculates the net feedings to levels. 
+
+GTOL is part of the [ENSDF Analysis and Utility Programs](https://nds.iaea.org/public/ensdf_pgm/).
 
 ## Downloads
 Each platfrom has its executable and fortran code
 
 ## Change History
 
-####2021-04 
+#### 2021-04 
 * GTOL for Windows
 Correct version displayed in the output header of the code.
 
