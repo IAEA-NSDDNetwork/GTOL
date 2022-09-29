@@ -9,7 +9,7 @@ Each platfrom has its executable and fortran code
 ## Change History
 
 #### 2021-04 
-Version 7.2f
+Version 7.2h
 
 GTOL for Windows
 Correct version displayed in the output header of the code.
