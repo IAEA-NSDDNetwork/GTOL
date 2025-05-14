@@ -1,5 +1,5 @@
 # GTOL
-Performs a least-squares fit to the gamma-energies to obtain level energies and calculates the net feedings to levels. 
+LEGACY CODE. Performs a least-squares fit to the gamma-energies to obtain level energies and calculates the net feedings to levels. 
 
 GTOL is part of the [ENSDF Analysis and Utility Programs](https://nds.iaea.org/public/ensdf_pgm/).
 
